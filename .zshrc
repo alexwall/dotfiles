@@ -22,5 +22,5 @@ PATH=/usr/local/bin:/usr/local/sbin:$PATH
 #eval "$(rbenv init -)"
 
 # Go Path related exports
-export GOPATH=~/Projekte/Go
+export GOPATH=~/dev/go
 export PATH=$PATH:$GOPATH/bin
